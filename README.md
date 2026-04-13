@@ -41,7 +41,7 @@ SiteForge is an AI-powered application builder that generates full-stack web app
 
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/your-abhinavbahadursingh/siteforge.git
+    git clone https://github.com/abhinavbahadursingh/siteforge.git
     cd siteforge
     ```
 
